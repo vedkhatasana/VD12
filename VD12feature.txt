@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-VD12conflict 2 
-=======
-VD12conflict 1 
->>>>>>> conflict
+VD12feature1
